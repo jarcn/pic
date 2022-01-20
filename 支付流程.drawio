@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T11:18:27.843Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="SnMvRbfo13JbdyfMQXMK" version="16.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-20T11:18:47.049Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="26bOTAkOSrT6cr2m01Ah" version="16.4.2" type="github">
   <diagram id="hDgSXtl1pIS-HQbCwnqq" name="Page-1">
     <mxGraphModel dx="946" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
@@ -264,7 +264,7 @@
         <mxCell id="86GMISHKl90TJAuDP3zU-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.014;entryY=0.769;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" edge="1" parent="1" source="86GMISHKl90TJAuDP3zU-65" target="86GMISHKl90TJAuDP3zU-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="86GMISHKl90TJAuDP3zU-65" value="&lt;b&gt;ThirdApiFactory&lt;br&gt;&lt;/b&gt;&lt;blockquote&gt;&lt;span style=&quot;color: rgb(38 , 127 , 153)&quot;&gt;&lt;b&gt;(组合所有三方平台)&lt;/b&gt;&lt;/span&gt;&lt;/blockquote&gt;" style="html=1;dropTarget=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="86GMISHKl90TJAuDP3zU-65" value="&lt;b&gt;ThirdApiFactory&lt;br&gt;&lt;/b&gt;&lt;blockquote&gt;&lt;span style=&quot;color: rgb(38 , 127 , 153)&quot;&gt;&lt;b&gt;(组合所有三方平台API)&lt;/b&gt;&lt;/span&gt;&lt;/blockquote&gt;" style="html=1;dropTarget=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="260" y="819" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="86GMISHKl90TJAuDP3zU-66" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="86GMISHKl90TJAuDP3zU-65">
