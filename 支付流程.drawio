@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T11:18:47.049Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="26bOTAkOSrT6cr2m01Ah" version="16.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T08:47:46.387Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15" etag="svL5PnuxmWss63xUFfb0" version="16.4.2" type="github">
   <diagram id="hDgSXtl1pIS-HQbCwnqq" name="Page-1">
     <mxGraphModel dx="946" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
@@ -312,8 +312,8 @@
         <mxCell id="86GMISHKl90TJAuDP3zU-73" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&lt;b&gt;&lt;u&gt;OtherApi&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;needHandler()&lt;/p&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; &lt;/span&gt;valid()&lt;br&gt;&amp;nbsp; reqBuilder()&lt;/div&gt;&lt;div&gt;&amp;nbsp; withdraw()&lt;br style=&quot;padding: 0px ; margin: 0px&quot;&gt;&amp;nbsp; pay()&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="1019" width="165" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="86GMISHKl90TJAuDP3zU-83" value="具体使用的&lt;br&gt;三方平台和通道&lt;br&gt;经过策略进行配置" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;shadow=1;dashed=1;dashPattern=1 1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="720" y="720" width="185" height="90" as="geometry" />
+        <mxCell id="86GMISHKl90TJAuDP3zU-83" value="&lt;sup&gt;具体使用的&lt;br&gt;三方平台和通道&lt;br&gt;经过策略进行配置&lt;/sup&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;shadow=1;dashed=1;dashPattern=1 1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="720" y="720" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
