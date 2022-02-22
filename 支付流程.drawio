@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T02:12:09.564Z" agent="5.0 (Macintosh)" etag="XSL-fRbw9dZ5qsAEQi-D" version="16.5.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-22T02:26:20.956Z" agent="5.0 (Macintosh)" etag="481TcgJWH-X2kjRgEILx" version="16.5.6" type="github" pages="4">
   <diagram id="hDgSXtl1pIS-HQbCwnqq" name="支付流程">
     <mxGraphModel dx="1186" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
@@ -382,6 +382,9 @@
         <mxCell id="TaxYmK2lqfJMt17VuJC5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TaxYmK2lqfJMt17VuJC5-1" source="TaxYmK2lqfJMt17VuJC5-7" target="TaxYmK2lqfJMt17VuJC5-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TaxYmK2lqfJMt17VuJC5-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TaxYmK2lqfJMt17VuJC5-1" source="TaxYmK2lqfJMt17VuJC5-7" target="TaxYmK2lqfJMt17VuJC5-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TaxYmK2lqfJMt17VuJC5-7" value="调用三方接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
           <mxGeometry x="324" y="350" width="120" height="60" as="geometry" />
         </mxCell>
@@ -436,6 +439,9 @@
         </mxCell>
         <mxCell id="TaxYmK2lqfJMt17VuJC5-32" value="更新订单状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
           <mxGeometry x="490" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaxYmK2lqfJMt17VuJC5-36" value="三方接口幂等" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
+          <mxGeometry x="80" y="340" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
