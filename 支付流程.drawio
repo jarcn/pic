@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-22T02:38:20.888Z" agent="5.0 (Macintosh)" etag="NIh0qiEBTdbkKYy-OF0M" version="16.5.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-22T05:43:54.718Z" agent="5.0 (Macintosh)" etag="4Bq_E0t2ICNBPm1NFmHp" version="16.5.6" type="github" pages="4">
   <diagram id="hDgSXtl1pIS-HQbCwnqq" name="支付流程">
     <mxGraphModel dx="1186" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
@@ -442,6 +442,57 @@
         </mxCell>
         <mxCell id="TaxYmK2lqfJMt17VuJC5-36" value="三方接口幂等" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
           <mxGeometry x="80" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TaxYmK2lqfJMt17VuJC5-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TaxYmK2lqfJMt17VuJC5-1" source="TaxYmK2lqfJMt17VuJC5-39" target="TaxYmK2lqfJMt17VuJC5-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaxYmK2lqfJMt17VuJC5-39" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
+          <mxGeometry x="1211" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaxYmK2lqfJMt17VuJC5-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TaxYmK2lqfJMt17VuJC5-1" source="TaxYmK2lqfJMt17VuJC5-40" target="TaxYmK2lqfJMt17VuJC5-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaxYmK2lqfJMt17VuJC5-40" value="创建订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
+          <mxGeometry x="1181" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaxYmK2lqfJMt17VuJC5-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="TaxYmK2lqfJMt17VuJC5-1" source="TaxYmK2lqfJMt17VuJC5-41" target="TaxYmK2lqfJMt17VuJC5-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaxYmK2lqfJMt17VuJC5-41" value="redis加锁" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
+          <mxGeometry x="1410" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaxYmK2lqfJMt17VuJC5-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TaxYmK2lqfJMt17VuJC5-1" source="TaxYmK2lqfJMt17VuJC5-44" target="TaxYmK2lqfJMt17VuJC5-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaxYmK2lqfJMt17VuJC5-50" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TaxYmK2lqfJMt17VuJC5-48">
+          <mxGeometry x="-0.1333" y="-4" relative="1" as="geometry">
+            <mxPoint x="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaxYmK2lqfJMt17VuJC5-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.017;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="TaxYmK2lqfJMt17VuJC5-1" source="TaxYmK2lqfJMt17VuJC5-44" target="TaxYmK2lqfJMt17VuJC5-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1140" y="290" />
+              <mxPoint x="1140" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaxYmK2lqfJMt17VuJC5-52" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TaxYmK2lqfJMt17VuJC5-51">
+          <mxGeometry x="-0.1734" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaxYmK2lqfJMt17VuJC5-44" value="获得锁" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
+          <mxGeometry x="1201" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TaxYmK2lqfJMt17VuJC5-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TaxYmK2lqfJMt17VuJC5-1" source="TaxYmK2lqfJMt17VuJC5-45" target="TaxYmK2lqfJMt17VuJC5-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaxYmK2lqfJMt17VuJC5-45" value="调用3rdpay" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
+          <mxGeometry x="1181" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TaxYmK2lqfJMt17VuJC5-46" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
+          <mxGeometry x="1211" y="520" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
