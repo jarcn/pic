@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T16:11:47.175Z" agent="5.0 (Macintosh)" etag="K4oPOudpTLjufZ3j8l3v" version="16.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-23T16:12:18.154Z" agent="5.0 (Macintosh)" etag="gALsaeo3n522MmXwmMNI" version="16.6.2" type="github" pages="4">
   <diagram id="hDgSXtl1pIS-HQbCwnqq" name="支付流程">
     <mxGraphModel dx="946" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
@@ -662,7 +662,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5meKehpgynHtenRMpaGe-61" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;调用三方api&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;依赖三方接口幂等性&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Courier New;fontColor=#1A1A1A;sketch=1;rounded=1;labelBackgroundColor=#EEEEEE;" parent="5meKehpgynHtenRMpaGe-18" vertex="1" connectable="0">
+        <mxCell id="5meKehpgynHtenRMpaGe-61" value="&lt;div&gt;&lt;span&gt;调用三方api&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;三方接口幂等&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Courier New;fontColor=#1A1A1A;sketch=1;rounded=1;labelBackgroundColor=#EEEEEE;" parent="5meKehpgynHtenRMpaGe-18" vertex="1" connectable="0">
           <mxGeometry x="-0.0655" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
