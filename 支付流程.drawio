@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T16:10:05.354Z" agent="5.0 (Macintosh)" etag="w-xZZH2J6Wml69KQGYmU" version="16.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-23T16:11:12.097Z" agent="5.0 (Macintosh)" etag="tmgc3JyKFc9IhRLnsYgK" version="16.6.2" type="github" pages="4">
   <diagram id="hDgSXtl1pIS-HQbCwnqq" name="支付流程">
     <mxGraphModel dx="946" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
@@ -777,7 +777,7 @@
             <mxPoint x="-53" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wwkdBNmwung7rodYgJmx-8" value="redis&lt;br&gt;分布式锁" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#001DBC;fillColor=#0050ef;fontColor=#330000;sketch=1;shadow=0;rounded=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;html=1;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
+        <mxCell id="wwkdBNmwung7rodYgJmx-8" value="redis&lt;br&gt;分布式锁" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=#0050ef;fontColor=#330000;sketch=1;shadow=0;rounded=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;html=1;dashed=1;fillStyle=dashed;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
           <mxGeometry x="662" y="1036" width="58" height="32" as="geometry" />
         </mxCell>
       </root>
