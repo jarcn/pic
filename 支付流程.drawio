@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T07:58:01.374Z" agent="5.0 (Macintosh)" etag="vTicspsaAz5P4PwNe0CF" version="16.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-23T08:05:27.857Z" agent="5.0 (Macintosh)" etag="91TdXVS87QJ7ldJ_21Sr" version="16.6.2" type="github" pages="4">
   <diagram id="hDgSXtl1pIS-HQbCwnqq" name="支付流程">
     <mxGraphModel dx="946" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
@@ -341,7 +341,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VCTNp0LumEzYlfJZH34y" name="支付/提现接口幂等方案">
-    <mxGraphModel dx="1186" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="TaxYmK2lqfJMt17VuJC5-0" />
         <mxCell id="TaxYmK2lqfJMt17VuJC5-1" parent="TaxYmK2lqfJMt17VuJC5-0" />
@@ -500,7 +500,7 @@
         <mxCell id="zidgy12Hhz_nLIWB0s7W-0" value="通知内部业务" style="whiteSpace=wrap;html=1;rounded=0;fontFamily=Comic Sans MS;fontColor=#0000FF;" parent="TaxYmK2lqfJMt17VuJC5-1" vertex="1">
           <mxGeometry x="490" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5meKehpgynHtenRMpaGe-0" value="trade" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontColor=#330000;sketch=1;" parent="TaxYmK2lqfJMt17VuJC5-1" vertex="1">
+        <mxCell id="5meKehpgynHtenRMpaGe-0" value="trade" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#1ba1e2;strokeColor=#000099;fontFamily=Comic Sans MS;fontColor=#330000;sketch=1;gradientColor=none;glass=0;shadow=0;" parent="TaxYmK2lqfJMt17VuJC5-1" vertex="1">
           <mxGeometry x="244" y="960" width="96" height="560" as="geometry" />
         </mxCell>
         <mxCell id="5meKehpgynHtenRMpaGe-31" value="" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontFamily=Comic Sans MS;fontColor=#0000FF;sketch=1;entryX=1.3;entryY=0.96;entryDx=0;entryDy=0;entryPerimeter=0;" parent="5meKehpgynHtenRMpaGe-0" edge="1" target="wwkdBNmwung7rodYgJmx-4">
@@ -528,7 +528,7 @@
         <mxCell id="wwkdBNmwung7rodYgJmx-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;fontColor=#0000FF;sketch=1;gradientColor=#ffffff;" vertex="1" parent="5meKehpgynHtenRMpaGe-0">
           <mxGeometry x="43" y="455" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5meKehpgynHtenRMpaGe-1" value="3rdpay" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontColor=#330000;sketch=1;" parent="TaxYmK2lqfJMt17VuJC5-1" vertex="1">
+        <mxCell id="5meKehpgynHtenRMpaGe-1" value="3rdpay" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#1ba1e2;strokeColor=#000099;fontFamily=Comic Sans MS;fontColor=#330000;sketch=1;gradientColor=none;glass=0;shadow=0;" parent="TaxYmK2lqfJMt17VuJC5-1" vertex="1">
           <mxGeometry x="510" y="960" width="100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="5meKehpgynHtenRMpaGe-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;fontColor=#0000FF;sketch=1;shadow=0;glass=0;rounded=0;gradientColor=#ffffff;" parent="5meKehpgynHtenRMpaGe-1" vertex="1">
@@ -608,7 +608,7 @@
             <mxPoint x="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5meKehpgynHtenRMpaGe-2" value="M/F" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;fontColor=#330000;sketch=1;" parent="TaxYmK2lqfJMt17VuJC5-1" vertex="1">
+        <mxCell id="5meKehpgynHtenRMpaGe-2" value="M/F" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#1ba1e2;strokeColor=#000099;fontFamily=Comic Sans MS;fontColor=#330000;sketch=1;gradientColor=none;glass=0;shadow=0;" parent="TaxYmK2lqfJMt17VuJC5-1" vertex="1">
           <mxGeometry x="780" y="960" width="100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="5meKehpgynHtenRMpaGe-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;fontColor=#0000FF;sketch=1;gradientColor=#ffffff;" parent="5meKehpgynHtenRMpaGe-2" vertex="1">
