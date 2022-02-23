@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T06:40:53.313Z" agent="5.0 (Macintosh)" etag="qtoFAdR9LniECny6brdl" version="16.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-23T06:47:04.256Z" agent="5.0 (Macintosh)" etag="w_88wwHXEnBsLFx4JJKF" version="16.6.2" type="github" pages="4">
   <diagram id="hDgSXtl1pIS-HQbCwnqq" name="支付流程">
     <mxGraphModel dx="1186" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
@@ -682,7 +682,10 @@
           <mxGeometry x="244" y="1030" width="26" height="250" as="geometry" />
         </mxCell>
         <mxCell id="5meKehpgynHtenRMpaGe-44" value="同步HTTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
-          <mxGeometry x="181" y="1145" width="70" height="20" as="geometry" />
+          <mxGeometry x="175" y="1145" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5meKehpgynHtenRMpaGe-47" value="异步mq消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
+          <mxGeometry x="170" y="1360" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
