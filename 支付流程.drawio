@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T07:56:01.488Z" agent="5.0 (Macintosh)" etag="-F4NN9KyQbo2ogx9paY9" version="16.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-23T07:56:49.144Z" agent="5.0 (Macintosh)" etag="uiWUH1l1-x8_DsjGSBrv" version="16.6.2" type="github" pages="4">
   <diagram id="hDgSXtl1pIS-HQbCwnqq" name="支付流程">
     <mxGraphModel dx="946" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
@@ -526,18 +526,7 @@
           <mxGeometry x="43" y="70" width="10" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wwkdBNmwung7rodYgJmx-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;fontColor=#0000FF;sketch=1;gradientColor=#ffffff;" vertex="1" parent="5meKehpgynHtenRMpaGe-0">
-          <mxGeometry x="43" y="220" width="10" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="5meKehpgynHtenRMpaGe-23" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=-0.1;exitY=0.422;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontFamily=Comic Sans MS;fontColor=#0000FF;sketch=1;" parent="5meKehpgynHtenRMpaGe-0" edge="1" source="5meKehpgynHtenRMpaGe-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="568" y="222" as="sourcePoint" />
-            <mxPoint x="53" y="222" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5meKehpgynHtenRMpaGe-53" value="&lt;span style=&quot;&quot;&gt;订单创建异常&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;labelBackgroundColor=#F7F7F7;fontColor=#0000FF;" parent="5meKehpgynHtenRMpaGe-23" vertex="1" connectable="0">
-          <mxGeometry x="0.2456" y="-1" relative="1" as="geometry">
-            <mxPoint x="-53" as="offset" />
-          </mxGeometry>
+          <mxGeometry x="43" y="220" width="10" height="104" as="geometry" />
         </mxCell>
         <mxCell id="wwkdBNmwung7rodYgJmx-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;fontColor=#0000FF;sketch=1;gradientColor=#ffffff;" vertex="1" parent="5meKehpgynHtenRMpaGe-0">
           <mxGeometry x="43" y="455" width="10" height="50" as="geometry" />
@@ -778,6 +767,17 @@
         <mxCell id="wwkdBNmwung7rodYgJmx-7" value="内部逻辑" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;labelBackgroundColor=#F7F7F7;fontColor=#0000FF;" vertex="1" connectable="0" parent="wwkdBNmwung7rodYgJmx-6">
           <mxGeometry x="-0.0005" relative="1" as="geometry">
             <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5meKehpgynHtenRMpaGe-23" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=-0.1;exitY=0.422;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#1ba1e2;strokeColor=#006EAF;fontFamily=Comic Sans MS;fontColor=#0000FF;sketch=1;" parent="TaxYmK2lqfJMt17VuJC5-1" edge="1" source="5meKehpgynHtenRMpaGe-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="812" y="1182" as="sourcePoint" />
+            <mxPoint x="300" y="1182" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5meKehpgynHtenRMpaGe-53" value="&lt;span style=&quot;&quot;&gt;订单创建异常&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;labelBackgroundColor=#F7F7F7;fontColor=#0000FF;" parent="5meKehpgynHtenRMpaGe-23" vertex="1" connectable="0">
+          <mxGeometry x="0.2456" y="-1" relative="1" as="geometry">
+            <mxPoint x="-53" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
