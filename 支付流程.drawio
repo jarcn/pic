@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T08:23:29.717Z" agent="5.0 (Macintosh)" etag="uq-QrcbuHkqu39_FMyid" version="16.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-24T08:30:09.452Z" agent="5.0 (Macintosh)" etag="FPh0P3tCxMJKVGHqKPor" version="16.6.2" type="github" pages="4">
   <diagram id="hDgSXtl1pIS-HQbCwnqq" name="支付流程">
     <mxGraphModel dx="1186" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
@@ -341,7 +341,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VCTNp0LumEzYlfJZH34y" name="支付/提现接口幂等方案">
-    <mxGraphModel dx="2703" dy="1631" grid="0" gridSize="1" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="571" grid="0" gridSize="1" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="TaxYmK2lqfJMt17VuJC5-0" />
         <mxCell id="TaxYmK2lqfJMt17VuJC5-1" parent="TaxYmK2lqfJMt17VuJC5-0" />
@@ -789,13 +789,13 @@
             <mxPoint x="1937" y="339" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KCEDgrfWaLIKPSQYoyPl-9" value="true" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=1;exitX=0;exitY=0.804;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.465;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;strokeColor=default;" edge="1" parent="TaxYmK2lqfJMt17VuJC5-1" source="KCEDgrfWaLIKPSQYoyPl-4" target="KCEDgrfWaLIKPSQYoyPl-3">
+        <mxCell id="KCEDgrfWaLIKPSQYoyPl-9" value="true" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;exitX=0;exitY=0.804;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.465;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;strokeColor=default;dashed=1;curved=1;" edge="1" parent="TaxYmK2lqfJMt17VuJC5-1" source="KCEDgrfWaLIKPSQYoyPl-4" target="KCEDgrfWaLIKPSQYoyPl-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1797" y="374" as="sourcePoint" />
             <mxPoint x="1717" y="374" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KCEDgrfWaLIKPSQYoyPl-11" value="true" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.1;exitY=0.827;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;" edge="1" parent="TaxYmK2lqfJMt17VuJC5-1" source="KCEDgrfWaLIKPSQYoyPl-3">
+        <mxCell id="KCEDgrfWaLIKPSQYoyPl-11" value="true" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.1;exitY=0.827;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;curved=1;" edge="1" parent="TaxYmK2lqfJMt17VuJC5-1" source="KCEDgrfWaLIKPSQYoyPl-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1731" y="399.41400000000004" as="sourcePoint" />
             <mxPoint x="1530" y="400" as="targetPoint" />
@@ -813,13 +813,13 @@
             <mxPoint x="1970" y="478" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KCEDgrfWaLIKPSQYoyPl-20" value="false" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0.082;exitY=0.723;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.945;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;" edge="1" parent="TaxYmK2lqfJMt17VuJC5-1" source="KCEDgrfWaLIKPSQYoyPl-10" target="KCEDgrfWaLIKPSQYoyPl-5">
+        <mxCell id="KCEDgrfWaLIKPSQYoyPl-20" value="false" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.082;exitY=0.723;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.945;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curved=1;" edge="1" parent="TaxYmK2lqfJMt17VuJC5-1" source="KCEDgrfWaLIKPSQYoyPl-10" target="KCEDgrfWaLIKPSQYoyPl-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1963" y="530.046" as="sourcePoint" />
             <mxPoint x="1755" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KCEDgrfWaLIKPSQYoyPl-21" value="重复请求" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=-0.009;exitY=0.748;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;" edge="1" parent="TaxYmK2lqfJMt17VuJC5-1" source="KCEDgrfWaLIKPSQYoyPl-5" target="KCEDgrfWaLIKPSQYoyPl-0">
+        <mxCell id="KCEDgrfWaLIKPSQYoyPl-21" value="重复请求" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.009;exitY=0.748;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;curved=1;" edge="1" parent="TaxYmK2lqfJMt17VuJC5-1" source="KCEDgrfWaLIKPSQYoyPl-5" target="KCEDgrfWaLIKPSQYoyPl-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1741.3700000000001" y="529" as="sourcePoint" />
             <mxPoint x="1540.0000000000002" y="530.76" as="targetPoint" />
