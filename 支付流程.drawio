@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T08:12:35.159Z" agent="5.0 (Macintosh)" etag="NQakhg8ZEpclwfpb70zy" version="16.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-24T08:15:51.363Z" agent="5.0 (Macintosh)" etag="tdmYn-XVzvln-t5WtdfP" version="16.6.2" type="github" pages="4">
   <diagram id="hDgSXtl1pIS-HQbCwnqq" name="支付流程">
     <mxGraphModel dx="1186" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
@@ -341,12 +341,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VCTNp0LumEzYlfJZH34y" name="支付/提现接口幂等方案">
-    <mxGraphModel dx="728" dy="439" grid="0" gridSize="1" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="571" grid="0" gridSize="1" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="TaxYmK2lqfJMt17VuJC5-0" />
         <mxCell id="TaxYmK2lqfJMt17VuJC5-1" parent="TaxYmK2lqfJMt17VuJC5-0" />
         <mxCell id="KCEDgrfWaLIKPSQYoyPl-6" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
-          <mxGeometry x="1306" y="331" width="519" height="313" as="geometry" />
+          <mxGeometry x="1306" y="326" width="519" height="313" as="geometry" />
         </mxCell>
         <mxCell id="KCEDgrfWaLIKPSQYoyPl-2" value="database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
           <mxGeometry x="1726" y="268" width="100" height="399" as="geometry" />
@@ -833,6 +833,9 @@
         </mxCell>
         <mxCell id="KCEDgrfWaLIKPSQYoyPl-26" value="[false]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
           <mxGeometry x="1310" y="492" width="42" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="KCEDgrfWaLIKPSQYoyPl-28" value="基于唯一ID幂等方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
+          <mxGeometry x="1273" y="240" width="621" height="444" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
