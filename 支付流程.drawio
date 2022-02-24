@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T16:18:08.087Z" agent="5.0 (Macintosh)" etag="pnGoAzCSHdXx3ZVPJzSG" version="16.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-24T01:22:32.681Z" agent="5.0 (Macintosh)" etag="tLwzJ6oFp8t_eyJfzMp-" version="16.6.2" type="github" pages="4">
   <diagram id="hDgSXtl1pIS-HQbCwnqq" name="支付流程">
     <mxGraphModel dx="946" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
@@ -341,7 +341,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VCTNp0LumEzYlfJZH34y" name="支付/提现接口幂等方案">
-    <mxGraphModel dx="946" dy="577" grid="0" gridSize="1" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#EEEEEE" math="0" shadow="1">
+    <mxGraphModel dx="1186" dy="577" grid="0" gridSize="1" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#EEEEEE" math="0" shadow="1">
       <root>
         <mxCell id="TaxYmK2lqfJMt17VuJC5-0" />
         <mxCell id="TaxYmK2lqfJMt17VuJC5-1" parent="TaxYmK2lqfJMt17VuJC5-0" />
@@ -779,6 +779,18 @@
         </mxCell>
         <mxCell id="wwkdBNmwung7rodYgJmx-8" value="redis&lt;br&gt;分布式锁" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=#0050ef;fontColor=#FF0000;sketch=1;shadow=0;rounded=0;glass=0;labelBackgroundColor=none;labelBorderColor=none;html=1;dashed=1;fillStyle=dashed;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
           <mxGeometry x="662" y="1036" width="58" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="yN4FBDHhgMfOgD_wTMZZ-0" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;shadow=0;glass=0;dashed=1;labelBackgroundColor=none;labelBorderColor=none;sketch=1;fillStyle=dashed;fontColor=#FF0000;strokeColor=default;fillColor=#FF0000;gradientColor=none;dashPattern=1 4;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
+          <mxGeometry x="928" y="1027" width="20" height="249" as="geometry" />
+        </mxCell>
+        <mxCell id="yN4FBDHhgMfOgD_wTMZZ-1" value="&lt;div&gt;订单唯一&lt;/div&gt;&lt;div&gt;同步校验&lt;/div&gt;&lt;div&gt;幂等&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#67AB9F;fontColor=#FF0000;sketch=1;fillStyle=dashed;rounded=0;glass=0;shadow=0;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
+          <mxGeometry x="972" y="1121" width="58" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="yN4FBDHhgMfOgD_wTMZZ-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;shadow=0;glass=0;dashed=1;dashPattern=1 4;labelBackgroundColor=none;labelBorderColor=none;sketch=1;fillStyle=dashed;fontColor=#FF0000;strokeColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
+          <mxGeometry x="926" y="1315" width="20" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="yN4FBDHhgMfOgD_wTMZZ-4" value="消息补偿" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#67AB9F;fontColor=#FF0000;sketch=1;fillStyle=dashed;" vertex="1" parent="TaxYmK2lqfJMt17VuJC5-1">
+          <mxGeometry x="958" y="1379" width="58" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
