@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T06:03:52.838Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="1GgtqwqurEyBOGA2BByi" version="17.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-22T06:25:55.836Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="QI5R_nry_wdMHmHmV4QX" version="17.4.3" type="github" pages="3">
   <diagram id="q9JE0bsu9Nl35Ci1RGcl" name="Page-1">
     <mxGraphModel dx="946" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -269,21 +269,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VAUEmlCPFZRbgcxp1Mcg-1" value="客户端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VAUEmlCPFZRbgcxp1Mcg-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="VAUEmlCPFZRbgcxp1Mcg-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="100" as="targetPoint" />
+            <mxPoint x="390" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VAUEmlCPFZRbgcxp1Mcg-2" value="服务端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VAUEmlCPFZRbgcxp1Mcg-3" value="注册中心" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7mTIUS4BJ42e_Ka0iArK-3" value="1:注册中心如何实现？&lt;br&gt;2:客户端如何封装？&lt;br&gt;3:服务端如何将服务注册到注册中心？&lt;br&gt;4:客户端与服务端通过什么协议进行通信？" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="310" width="320" height="120" as="geometry" />
+          <mxGeometry x="150" y="340" width="320" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
