@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T09:00:17.079Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="NuUXom30cpV774Y99R0B" version="17.4.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-25T09:01:11.632Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="wiAzkXUvsD0ecFw50-kY" version="17.4.6" type="github" pages="4">
   <diagram id="1ibXJEjT5v1Qtc3Ci-ZA" name="灰度部署">
     <mxGraphModel dx="1186" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -274,6 +274,9 @@
         </mxCell>
         <mxCell id="D5hWllVHSn7_AgNh1Baz-4" value="1:账户余额累积明细&lt;br&gt;2:账户余额中奖励消耗明细" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="220" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D5hWllVHSn7_AgNh1Baz-5" value="1:活动管理&lt;br&gt;2:活动参与情况统计" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
