@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T08:34:27.107Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="PbO2CyVrWQKBFDMFZSo6" version="17.4.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-25T08:54:39.588Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="v8_is5bRFp5V2PQ-5OFX" version="17.4.6" type="github" pages="4">
   <diagram id="1ibXJEjT5v1Qtc3Ci-ZA" name="灰度部署">
     <mxGraphModel dx="1186" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -260,8 +260,8 @@
         <mxCell id="uA9h-hV5zZD78vr0PwWA-28" value="余额消耗&lt;br&gt;(提现)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="265" y="980" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uA9h-hV5zZD78vr0PwWA-30" value="App端控制活动入口(mgm活动只针对JS)&lt;br&gt;设计得考虑到后期活动的扩展(例如对JP也做相关的活动)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="255" y="650" width="400" height="30" as="geometry" />
+        <mxCell id="uA9h-hV5zZD78vr0PwWA-30" value="App端控制活动入口(mgm活动只针对JS)&lt;br&gt;设计得考虑到后期活动的扩展(例如对JP也做相关的活动)&lt;br&gt;活动管理&lt;br&gt;活动参与情况统计数据" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="255" y="650" width="395" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uA9h-hV5zZD78vr0PwWA-31" value="&lt;div&gt;&lt;span&gt;1:邀请者端实时查询被邀者任务进度&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;2:邀请者端实时提醒被邀请者完成任务&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;3:邀请者和被邀请者端跑马灯展示获取奖励消息&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="55" y="1060" width="355" height="50" as="geometry" />
