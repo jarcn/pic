@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T08:16:07.937Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ZDvCbCU6RP7bSrYg2x3d" version="17.4.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-25T08:29:44.586Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="alOzLd6fyjYPWCODzD0T" version="17.4.6" type="github" pages="4">
   <diagram id="1ibXJEjT5v1Qtc3Ci-ZA" name="灰度部署">
     <mxGraphModel dx="946" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,6 +262,9 @@
         </mxCell>
         <mxCell id="uA9h-hV5zZD78vr0PwWA-30" value="App端控制活动入口(mgm活动只针对JS)&lt;br&gt;设计得考虑到后期活动的扩展(例如对JP也做相关的活动)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="255" y="650" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uA9h-hV5zZD78vr0PwWA-31" value="&lt;div&gt;&lt;span&gt;1:邀请者端实时查询被邀者任务进度&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;2:邀请者端实时提醒被邀请者完成任务&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;3:邀请者和被邀请者端跑马灯展示获取奖励消息&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1060" width="355" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
