@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T09:13:22.482Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Xiu_aAZjU7ReWGOcFWK5" version="17.4.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-25T09:13:39.287Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="66T975QpTADJpdtnjC26" version="17.4.6" type="github" pages="4">
   <diagram id="1ibXJEjT5v1Qtc3Ci-ZA" name="灰度部署">
     <mxGraphModel dx="1186" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -207,10 +207,10 @@
           <mxGeometry x="40" y="230" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uA9h-hV5zZD78vr0PwWA-2" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uA9h-hV5zZD78vr0PwWA-3" value="账户" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uA9h-hV5zZD78vr0PwWA-4" value="通知" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="240" width="120" height="60" as="geometry" />
