@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T09:03:59.253Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="SEs6UUpFoP8_pFC44G5F" version="17.4.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-25T09:04:57.600Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="5BkQGvKMfxFeRzHSaq2o" version="17.4.6" type="github" pages="4">
   <diagram id="1ibXJEjT5v1Qtc3Ci-ZA" name="灰度部署">
     <mxGraphModel dx="1186" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,6 +224,9 @@
         <mxCell id="uA9h-hV5zZD78vr0PwWA-12" value="JS注册" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="60" y="525" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="D5hWllVHSn7_AgNh1Baz-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uA9h-hV5zZD78vr0PwWA-17" target="uA9h-hV5zZD78vr0PwWA-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uA9h-hV5zZD78vr0PwWA-17" value="分配邀请码" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="260" y="540" width="110" height="30" as="geometry" />
         </mxCell>
@@ -245,11 +248,17 @@
         <mxCell id="uA9h-hV5zZD78vr0PwWA-22" value="被邀请者&lt;br&gt;完成活动任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="60" y="860" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="D5hWllVHSn7_AgNh1Baz-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uA9h-hV5zZD78vr0PwWA-24" target="uA9h-hV5zZD78vr0PwWA-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uA9h-hV5zZD78vr0PwWA-24" value="分享链接带有分销码和邀请者唯一标识" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="255" y="765" width="250" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="D5hWllVHSn7_AgNh1Baz-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uA9h-hV5zZD78vr0PwWA-25" target="uA9h-hV5zZD78vr0PwWA-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uA9h-hV5zZD78vr0PwWA-25" value="1:用户注册流程&lt;br&gt;2:课程完成流程&lt;br&gt;3:拉新人数流程" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="260" y="865" width="260" height="55" as="geometry" />
+          <mxGeometry x="260" y="860" width="260" height="55" as="geometry" />
         </mxCell>
         <mxCell id="uA9h-hV5zZD78vr0PwWA-29" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="uA9h-hV5zZD78vr0PwWA-26" target="uA9h-hV5zZD78vr0PwWA-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -260,11 +269,17 @@
         <mxCell id="uA9h-hV5zZD78vr0PwWA-28" value="余额消耗&lt;br&gt;(提现)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="265" y="980" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="D5hWllVHSn7_AgNh1Baz-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uA9h-hV5zZD78vr0PwWA-30" target="uA9h-hV5zZD78vr0PwWA-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uA9h-hV5zZD78vr0PwWA-30" value="App端控制活动入口(mgm活动只针对JS)&lt;br&gt;设计得考虑到后期活动的扩展(例如对JP也做相关的活动)&lt;br&gt;活动管理&lt;br&gt;活动参与情况统计数据" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="255" y="650" width="395" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="D5hWllVHSn7_AgNh1Baz-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uA9h-hV5zZD78vr0PwWA-31" target="uA9h-hV5zZD78vr0PwWA-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uA9h-hV5zZD78vr0PwWA-31" value="&lt;div&gt;&lt;span&gt;1:邀请者端实时查询被邀者任务进度&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;2:邀请者端实时提醒被邀请者完成任务&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;3:邀请者和被邀请者端跑马灯展示获取奖励消息&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="55" y="1060" width="355" height="50" as="geometry" />
+          <mxGeometry x="30" y="1080" width="355" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D5hWllVHSn7_AgNh1Baz-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D5hWllVHSn7_AgNh1Baz-1" target="uA9h-hV5zZD78vr0PwWA-2">
           <mxGeometry relative="1" as="geometry" />
