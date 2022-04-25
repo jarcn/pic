@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T08:57:53.596Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="eCr60XgNi1eE2yFC2sCa" version="17.4.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-25T09:00:17.079Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="NuUXom30cpV774Y99R0B" version="17.4.6" type="github" pages="4">
   <diagram id="1ibXJEjT5v1Qtc3Ci-ZA" name="灰度部署">
     <mxGraphModel dx="1186" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -263,8 +263,17 @@
         <mxCell id="uA9h-hV5zZD78vr0PwWA-31" value="&lt;div&gt;&lt;span&gt;1:邀请者端实时查询被邀者任务进度&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;2:邀请者端实时提醒被邀请者完成任务&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;3:邀请者和被邀请者端跑马灯展示获取奖励消息&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="55" y="1060" width="355" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D5hWllVHSn7_AgNh1Baz-1" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1:用户注册、信息完善程度、简历完善程度&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2:分销码&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3:用户详情&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="475" y="125" width="270" height="30" as="geometry" />
+        <mxCell id="D5hWllVHSn7_AgNh1Baz-1" value="&lt;div&gt;&lt;span&gt;1:用户注册、信息完善程度、简历完善程度&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;2:分销码&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;3:用户详情&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="125" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D5hWllVHSn7_AgNh1Baz-2" value="1:push&lt;br&gt;2:inbox&lt;br&gt;3:others" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D5hWllVHSn7_AgNh1Baz-3" value="1:课程完成进度&lt;br&gt;2:勋章领取数据" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="405" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D5hWllVHSn7_AgNh1Baz-4" value="1:账户余额累积明细&lt;br&gt;2:账户余额中奖励消耗明细" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="220" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
