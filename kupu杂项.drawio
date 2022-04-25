@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T09:13:39.287Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="66T975QpTADJpdtnjC26" version="17.4.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-25T10:10:59.742Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="dYcvf3p3ipMjUos565fO" version="17.4.6" type="github" pages="4">
   <diagram id="1ibXJEjT5v1Qtc3Ci-ZA" name="灰度部署">
     <mxGraphModel dx="1186" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -227,8 +227,8 @@
         <mxCell id="D5hWllVHSn7_AgNh1Baz-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uA9h-hV5zZD78vr0PwWA-17" target="uA9h-hV5zZD78vr0PwWA-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uA9h-hV5zZD78vr0PwWA-17" value="分配邀请码" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="260" y="540" width="110" height="30" as="geometry" />
+        <mxCell id="uA9h-hV5zZD78vr0PwWA-17" value="分配邀请码&lt;br&gt;邀请码匹配(自动填充)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="260" y="540" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uA9h-hV5zZD78vr0PwWA-21" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="uA9h-hV5zZD78vr0PwWA-18" target="uA9h-hV5zZD78vr0PwWA-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
