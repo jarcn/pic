@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T07:30:36.282Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="JAtZc4rKQwR4Sf9IHsGY" version="17.4.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-25T07:31:40.106Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="55PqTYz8_T8hRr5ZocHV" version="17.4.6" type="github" pages="4">
   <diagram id="1ibXJEjT5v1Qtc3Ci-ZA" name="灰度部署">
     <mxGraphModel dx="946" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -214,6 +214,9 @@
         </mxCell>
         <mxCell id="uA9h-hV5zZD78vr0PwWA-9" value="课程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uA9h-hV5zZD78vr0PwWA-11" value="&lt;font style=&quot;font-size: 14px&quot;&gt;目前Agent分销如何实现的？&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
