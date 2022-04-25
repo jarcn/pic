@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T08:10:01.380Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="_f1C6mqtq9E_iTDDNTsX" version="17.4.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-25T08:13:27.074Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="go3vbjUGbMmsyergeXXY" version="17.4.6" type="github" pages="4">
   <diagram id="1ibXJEjT5v1Qtc3Ci-ZA" name="灰度部署">
     <mxGraphModel dx="946" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -254,10 +254,10 @@
         <mxCell id="uA9h-hV5zZD78vr0PwWA-29" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="uA9h-hV5zZD78vr0PwWA-26" target="uA9h-hV5zZD78vr0PwWA-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uA9h-hV5zZD78vr0PwWA-26" value="根据被邀者任务完成情况&lt;br&gt;同步邀请者获得积分" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="uA9h-hV5zZD78vr0PwWA-26" value="余额账户累积&lt;br&gt;(奖励)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="55" y="980" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uA9h-hV5zZD78vr0PwWA-28" value="积分消耗" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="uA9h-hV5zZD78vr0PwWA-28" value="余额消耗&lt;br&gt;(提现)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="265" y="980" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
