@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T01:20:33.282Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="7iAXbFwtHFmJnWk0KpI8" version="17.4.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-26T01:21:15.836Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="r4ha08JyNwb1nwx2J-qC" version="17.4.6" type="github" pages="3">
   <diagram id="q9JE0bsu9Nl35Ci1RGcl" name="Page-1">
     <mxGraphModel dx="946" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -217,45 +217,39 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XYOMZz3gXE-gS1KjlrcU" name="Page-2">
-    <mxGraphModel dx="946" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YT6Hr-ajXvsEarm_LwC1-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="-30" width="840" height="840" as="geometry" />
-        </mxCell>
         <mxCell id="YT6Hr-ajXvsEarm_LwC1-1" value="Service A" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="190" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YT6Hr-ajXvsEarm_LwC1-2" value="Service B" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="570" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YT6Hr-ajXvsEarm_LwC1-3" value="ServiceB Api" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="200" y="180" width="80" height="20" as="geometry" />
+          <mxGeometry x="170" y="100" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YT6Hr-ajXvsEarm_LwC1-5" value="rpc" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="390" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YT6Hr-ajXvsEarm_LwC1-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="YT6Hr-ajXvsEarm_LwC1-3" target="YT6Hr-ajXvsEarm_LwC1-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="450" as="sourcePoint" />
-            <mxPoint x="300" y="400" as="targetPoint" />
+            <mxPoint x="220" y="370" as="sourcePoint" />
+            <mxPoint x="270" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="260" />
+              <mxPoint x="210" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YT6Hr-ajXvsEarm_LwC1-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;shadow=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="YT6Hr-ajXvsEarm_LwC1-5" target="YT6Hr-ajXvsEarm_LwC1-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="680" y="280" as="sourcePoint" />
-            <mxPoint x="890" y="340" as="targetPoint" />
+            <mxPoint x="650" y="200" as="sourcePoint" />
+            <mxPoint x="860" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="630" y="260" />
+              <mxPoint x="600" y="180" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="5Aev1RExUfUuKyrzrUi3-1" value="RPC框架" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="140" y="410" width="590" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
