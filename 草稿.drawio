@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T08:16:16.311Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="-Dt2M4hWb_JjwxcadbhK" version="18.0.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-16T10:16:05.118Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="nBS0BDdXzlISOOdN0f2Y" version="18.0.5" type="github" pages="2">
   <diagram id="q9JE0bsu9Nl35Ci1RGcl" name="实名认证流程">
     <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -217,7 +217,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-50GtGsK1iyMh3ttaeVt" name="裂变">
-    <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1227" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -280,7 +280,7 @@
           <mxGeometry x="580" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lPqOQrh8ExeeCkzMcSLy-13" value="消息系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lPqOQrh8ExeeCkzMcSLy-16" value="风控系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="600" width="120" height="60" as="geometry" />
