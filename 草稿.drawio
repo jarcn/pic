@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T10:16:05.118Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="nBS0BDdXzlISOOdN0f2Y" version="18.0.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-16T11:20:03.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="AX8IXX6im9808wvlxJql" version="18.0.5" type="github" pages="3">
   <diagram id="q9JE0bsu9Nl35Ci1RGcl" name="实名认证流程">
-    <mxGraphModel dx="1426" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,73 +217,204 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-50GtGsK1iyMh3ttaeVt" name="裂变">
-    <mxGraphModel dx="1227" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1581" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lPqOQrh8ExeeCkzMcSLy-5" value="获取到的奖励同步给支付系统" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lPqOQrh8ExeeCkzMcSLy-1" target="lPqOQrh8ExeeCkzMcSLy-2">
+        <mxCell id="lPqOQrh8ExeeCkzMcSLy-5" value="获取到的奖励同步给支付系统" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="lPqOQrh8ExeeCkzMcSLy-1" target="lPqOQrh8ExeeCkzMcSLy-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lPqOQrh8ExeeCkzMcSLy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lPqOQrh8ExeeCkzMcSLy-1" target="lPqOQrh8ExeeCkzMcSLy-4">
+        <mxCell id="lPqOQrh8ExeeCkzMcSLy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lPqOQrh8ExeeCkzMcSLy-1" target="lPqOQrh8ExeeCkzMcSLy-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lPqOQrh8ExeeCkzMcSLy-8" value="用户简历完成度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPqOQrh8ExeeCkzMcSLy-6">
+        <mxCell id="lPqOQrh8ExeeCkzMcSLy-8" value="用户简历完成度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPqOQrh8ExeeCkzMcSLy-6" vertex="1" connectable="0">
           <mxGeometry x="0.1929" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPqOQrh8ExeeCkzMcSLy-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lPqOQrh8ExeeCkzMcSLy-1" target="lPqOQrh8ExeeCkzMcSLy-3">
+        <mxCell id="lPqOQrh8ExeeCkzMcSLy-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lPqOQrh8ExeeCkzMcSLy-1" target="lPqOQrh8ExeeCkzMcSLy-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lPqOQrh8ExeeCkzMcSLy-9" value="用户注册信息完成度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPqOQrh8ExeeCkzMcSLy-7">
+        <mxCell id="lPqOQrh8ExeeCkzMcSLy-9" value="用户注册信息完成度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPqOQrh8ExeeCkzMcSLy-7" vertex="1" connectable="0">
           <mxGeometry x="0.2647" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPqOQrh8ExeeCkzMcSLy-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="lPqOQrh8ExeeCkzMcSLy-1" target="lPqOQrh8ExeeCkzMcSLy-10">
+        <mxCell id="lPqOQrh8ExeeCkzMcSLy-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="lPqOQrh8ExeeCkzMcSLy-1" target="lPqOQrh8ExeeCkzMcSLy-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lPqOQrh8ExeeCkzMcSLy-12" value="用户学习进度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPqOQrh8ExeeCkzMcSLy-11">
+        <mxCell id="lPqOQrh8ExeeCkzMcSLy-12" value="用户学习进度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPqOQrh8ExeeCkzMcSLy-11" vertex="1" connectable="0">
           <mxGeometry x="0.1756" y="-1" relative="1" as="geometry">
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPqOQrh8ExeeCkzMcSLy-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lPqOQrh8ExeeCkzMcSLy-1" target="lPqOQrh8ExeeCkzMcSLy-13">
+        <mxCell id="lPqOQrh8ExeeCkzMcSLy-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="lPqOQrh8ExeeCkzMcSLy-1" target="lPqOQrh8ExeeCkzMcSLy-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lPqOQrh8ExeeCkzMcSLy-15" value="推送提醒消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPqOQrh8ExeeCkzMcSLy-14">
+        <mxCell id="lPqOQrh8ExeeCkzMcSLy-15" value="推送提醒消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPqOQrh8ExeeCkzMcSLy-14" vertex="1" connectable="0">
           <mxGeometry x="-0.1733" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPqOQrh8ExeeCkzMcSLy-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lPqOQrh8ExeeCkzMcSLy-1" target="lPqOQrh8ExeeCkzMcSLy-16">
+        <mxCell id="lPqOQrh8ExeeCkzMcSLy-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="lPqOQrh8ExeeCkzMcSLy-1" target="lPqOQrh8ExeeCkzMcSLy-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lPqOQrh8ExeeCkzMcSLy-18" value="活动防刷校验" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPqOQrh8ExeeCkzMcSLy-17">
+        <mxCell id="lPqOQrh8ExeeCkzMcSLy-18" value="活动防刷校验" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="lPqOQrh8ExeeCkzMcSLy-17" vertex="1" connectable="0">
           <mxGeometry x="-0.057" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPqOQrh8ExeeCkzMcSLy-1" value="积分系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lPqOQrh8ExeeCkzMcSLy-1" value="积分系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lPqOQrh8ExeeCkzMcSLy-2" value="支付系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lPqOQrh8ExeeCkzMcSLy-2" value="支付系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lPqOQrh8ExeeCkzMcSLy-3" value="用户系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lPqOQrh8ExeeCkzMcSLy-3" value="用户系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lPqOQrh8ExeeCkzMcSLy-4" value="简历系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lPqOQrh8ExeeCkzMcSLy-4" value="简历系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lPqOQrh8ExeeCkzMcSLy-10" value="学习系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lPqOQrh8ExeeCkzMcSLy-10" value="学习系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lPqOQrh8ExeeCkzMcSLy-13" value="消息系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lPqOQrh8ExeeCkzMcSLy-13" value="消息系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lPqOQrh8ExeeCkzMcSLy-16" value="风控系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lPqOQrh8ExeeCkzMcSLy-16" value="风控系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wZlLOJ0CUKWJKhDbcAk9" name="裂变草稿">
+    <mxGraphModel dx="1186" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FJRI15gvm_ePodiw6W8S-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJRI15gvm_ePodiw6W8S-6" target="FJRI15gvm_ePodiw6W8S-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FJRI15gvm_ePodiw6W8S-6" target="FJRI15gvm_ePodiw6W8S-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJRI15gvm_ePodiw6W8S-6" target="FJRI15gvm_ePodiw6W8S-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJRI15gvm_ePodiw6W8S-6" target="FJRI15gvm_ePodiw6W8S-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJRI15gvm_ePodiw6W8S-6" target="FJRI15gvm_ePodiw6W8S-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-6" value="活动" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-7" value="用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-8" value="账户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-9" value="通知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-10" value="课程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-11" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="FJRI15gvm_ePodiw6W8S-12" target="FJRI15gvm_ePodiw6W8S-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-12" value="JS注册" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="60" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJRI15gvm_ePodiw6W8S-14" target="FJRI15gvm_ePodiw6W8S-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-14" value="分配邀请码&lt;br&gt;邀请码匹配(自动填充)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="540" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-15" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="FJRI15gvm_ePodiw6W8S-16" target="FJRI15gvm_ePodiw6W8S-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-16" value="进入活动主页" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="60" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-17" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="FJRI15gvm_ePodiw6W8S-18" target="FJRI15gvm_ePodiw6W8S-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-18" value="生成分享链接" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="60" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-19" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="FJRI15gvm_ePodiw6W8S-20" target="FJRI15gvm_ePodiw6W8S-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-20" value="被邀请者&lt;br&gt;完成活动任务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="60" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJRI15gvm_ePodiw6W8S-22" target="FJRI15gvm_ePodiw6W8S-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-22" value="分享链接带有分销码和邀请者唯一标识&lt;br&gt;openinstall" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="255" y="765" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJRI15gvm_ePodiw6W8S-24" target="FJRI15gvm_ePodiw6W8S-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-24" value="1:用户注册流程&lt;br&gt;2:课程完成流程&lt;br&gt;3:拉新人数流程" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="860" width="260" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-25" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="FJRI15gvm_ePodiw6W8S-26" target="FJRI15gvm_ePodiw6W8S-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-26" value="余额账户累积&lt;br&gt;(奖励)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="55" y="980" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-27" value="余额消耗&lt;br&gt;(提现)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="265" y="980" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJRI15gvm_ePodiw6W8S-29" target="FJRI15gvm_ePodiw6W8S-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-29" value="App端控制活动入口(mgm活动只针对JS)&lt;br&gt;设计得考虑到后期活动的扩展(例如对JP也做相关的活动)&lt;br&gt;活动管理&lt;br&gt;活动参与情况统计数据" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="255" y="650" width="395" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJRI15gvm_ePodiw6W8S-31" target="FJRI15gvm_ePodiw6W8S-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-31" value="&lt;div&gt;&lt;span&gt;1:邀请者端实时查询被邀者任务进度&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;2:邀请者端实时提醒被邀请者完成任务&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;3:邀请者和被邀请者端跑马灯展示获取奖励消息&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1080" width="355" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJRI15gvm_ePodiw6W8S-33" target="FJRI15gvm_ePodiw6W8S-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-33" value="&lt;div&gt;&lt;span&gt;1:用户注册、信息完善程度、简历完善程度&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;2:分销码&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;3:用户详情&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="95" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJRI15gvm_ePodiw6W8S-35" target="FJRI15gvm_ePodiw6W8S-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-35" value="1:push&lt;br&gt;2:inbox&lt;br&gt;3:others" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FJRI15gvm_ePodiw6W8S-37" target="FJRI15gvm_ePodiw6W8S-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-37" value="1:课程完成进度&lt;br&gt;2:勋章领取数据" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="335" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FJRI15gvm_ePodiw6W8S-39" target="FJRI15gvm_ePodiw6W8S-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-39" value="1:账户余额累积明细&lt;br&gt;2:账户余额中奖励消耗明细" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="175" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-40" value="1:活动管理&lt;br&gt;2:活动参与情况统计" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FJRI15gvm_ePodiw6W8S-41" value="others" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
