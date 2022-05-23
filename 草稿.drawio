@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T07:48:46.177Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="SgrSZm7x7ZnySLluuocj" version="18.1.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-05-23T09:46:33.326Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="v48FFV2c6HcQqI0rMcx2" version="18.1.1" type="github" pages="5">
   <diagram id="q9JE0bsu9Nl35Ci1RGcl" name="实名认证流程">
     <mxGraphModel dx="946" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -503,7 +503,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zpu8w2Bv-XrGhIUdpsqd" name="Appsflyer拉新">
-    <mxGraphModel dx="946" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -596,7 +596,7 @@
         <mxCell id="jE5EDbVkvJnb_zQ8ub2G-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jE5EDbVkvJnb_zQ8ub2G-21" target="jE5EDbVkvJnb_zQ8ub2G-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jE5EDbVkvJnb_zQ8ub2G-24" value="notice kupu&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jE5EDbVkvJnb_zQ8ub2G-23">
+        <mxCell id="jE5EDbVkvJnb_zQ8ub2G-24" value="通知 kupu server 归因数据&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jE5EDbVkvJnb_zQ8ub2G-23">
           <mxGeometry x="0.1231" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
