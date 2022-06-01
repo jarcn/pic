@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T11:47:29.648Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="mFtOHV03u8bPEC8bcyEU" version="18.0.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-06-01T11:48:16.363Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ZBXsYbwoRN1qYNiJbtff" version="18.0.7" type="github" pages="6">
   <diagram id="q9JE0bsu9Nl35Ci1RGcl" name="实名认证流程">
     <mxGraphModel dx="946" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -613,7 +613,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="73_hlKfOImU7YbsWcFJY" name="Page-6">
+  <diagram id="73_hlKfOImU7YbsWcFJY" name="用户裂变设计">
     <mxGraphModel dx="946" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -628,7 +628,7 @@
         </mxCell>
         <mxCell id="QIWtvgW6ZzfBNVB31D6T-17" value="监听user服务的通知消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QIWtvgW6ZzfBNVB31D6T-15">
           <mxGeometry x="-0.08" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="63" y="-31" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QIWtvgW6ZzfBNVB31D6T-1" value="market" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -639,7 +639,7 @@
         </mxCell>
         <mxCell id="QIWtvgW6ZzfBNVB31D6T-16" value="新用户进入通知market进行裂变活动处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QIWtvgW6ZzfBNVB31D6T-14">
           <mxGeometry x="-0.2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="62" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QIWtvgW6ZzfBNVB31D6T-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QIWtvgW6ZzfBNVB31D6T-2" target="QIWtvgW6ZzfBNVB31D6T-1">
