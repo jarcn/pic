@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T09:06:07.013Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="hhxKk8dZtozNFrgzwQNY" version="18.2.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-06-08T09:47:50.022Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="1HvvILO6ztnD5CoP3mFx" version="18.2.0" type="github" pages="6">
   <diagram id="q9JE0bsu9Nl35Ci1RGcl" name="实名认证流程">
     <mxGraphModel dx="1186" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -685,7 +685,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bu08H1OPxeldWzYD_qad-1" value="xxl-job" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
