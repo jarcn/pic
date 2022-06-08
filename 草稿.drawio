@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T09:03:26.344Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="VFDl74LVW4dMaOvZGGjZ" version="18.2.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-06-08T09:03:49.047Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="TsUWwo35AOlNi51xDx07" version="18.2.0" type="github" pages="6">
   <diagram id="q9JE0bsu9Nl35Ci1RGcl" name="实名认证流程">
     <mxGraphModel dx="1186" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -681,7 +681,7 @@
         </mxCell>
         <mxCell id="bu08H1OPxeldWzYD_qad-3" value="定时巡检活动是否到达结束时间" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bu08H1OPxeldWzYD_qad-2">
           <mxGeometry x="0.0802" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="74" y="32" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bu08H1OPxeldWzYD_qad-1" value="xxl-job" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
