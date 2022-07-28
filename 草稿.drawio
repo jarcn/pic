@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T08:15:33.995Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="g7H9eN4sD33MMb6PDZHV" version="20.2.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-28T08:22:08.897Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1Xy1m_yBJqXSVfWeDzpM" version="20.2.2" type="github" pages="7">
   <diagram id="q9JE0bsu9Nl35Ci1RGcl" name="实名认证流程">
     <mxGraphModel dx="946" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -691,7 +691,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vgUgmqgSBVxa8RrLeYI9" name="第 7 页">
-    <mxGraphModel dx="946" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1374" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -947,6 +947,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="aIWm4AQlvVzGKz9wr0rj-115" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=15;fontColor=#FF3333;" edge="1" parent="1" source="aIWm4AQlvVzGKz9wr0rj-88" target="aIWm4AQlvVzGKz9wr0rj-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aIWm4AQlvVzGKz9wr0rj-116" value="订单信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#FF3333;" vertex="1" connectable="0" parent="aIWm4AQlvVzGKz9wr0rj-115">
+          <mxGeometry x="-0.0389" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aIWm4AQlvVzGKz9wr0rj-88" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1262" y="350" width="10" height="60" as="geometry" />
         </mxCell>
@@ -1014,6 +1022,12 @@
           <mxGeometry x="-0.0111" relative="1" as="geometry">
             <mxPoint x="13" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aIWm4AQlvVzGKz9wr0rj-113" value="FlipV2版查询订单状态接口,必须依赖Flip生成的交易ID&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;必须先发起提现,再记录订单&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="215" y="500" width="376" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aIWm4AQlvVzGKz9wr0rj-114" value="FlipV3版查询订单状态接口可以使用KUPU生成的订单ID&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;则优化成先记录订单,再查询Flip状态&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="894" y="501" width="376" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
