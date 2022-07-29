@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T07:31:39.765Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="EtiFicWmTpyjjsd3PGm0" version="20.2.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-29T07:31:57.482Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="MIrPwr96aiZqXYezakX8" version="20.2.2" type="github" pages="7">
   <diagram id="q9JE0bsu9Nl35Ci1RGcl" name="实名认证流程">
     <mxGraphModel dx="1186" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -714,7 +714,7 @@
         </mxCell>
         <mxCell id="aIWm4AQlvVzGKz9wr0rj-17" value="insert order record" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aIWm4AQlvVzGKz9wr0rj-16" vertex="1" connectable="0">
           <mxGeometry x="0.0087" y="1" relative="1" as="geometry">
-            <mxPoint y="-3" as="offset" />
+            <mxPoint x="28" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aIWm4AQlvVzGKz9wr0rj-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
