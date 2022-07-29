@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T07:31:57.482Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="MIrPwr96aiZqXYezakX8" version="20.2.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-29T07:33:31.665Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="glFZH6YyWhdmXTecCuI7" version="20.2.2" type="github" pages="7">
   <diagram id="q9JE0bsu9Nl35Ci1RGcl" name="实名认证流程">
     <mxGraphModel dx="1186" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -749,7 +749,7 @@
             <mxPoint x="585" y="354" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aIWm4AQlvVzGKz9wr0rj-21" value="查询订单(V2接口)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aIWm4AQlvVzGKz9wr0rj-20" vertex="1" connectable="0">
+        <mxCell id="aIWm4AQlvVzGKz9wr0rj-21" value="query order detail with V2 api" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aIWm4AQlvVzGKz9wr0rj-20" vertex="1" connectable="0">
           <mxGeometry x="-0.2324" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -787,7 +787,7 @@
             <mxPoint x="215" y="324" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aIWm4AQlvVzGKz9wr0rj-27" value="异步消息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aIWm4AQlvVzGKz9wr0rj-26" vertex="1" connectable="0">
+        <mxCell id="aIWm4AQlvVzGKz9wr0rj-27" value="notcie message" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aIWm4AQlvVzGKz9wr0rj-26" vertex="1" connectable="0">
           <mxGeometry x="0.1459" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -990,11 +990,11 @@
         </mxCell>
         <mxCell id="aIWm4AQlvVzGKz9wr0rj-107" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=13;fontColor=#FF3333;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="585" y="386" as="sourcePoint" />
-            <mxPoint x="215" y="384" as="targetPoint" />
+            <mxPoint x="585" y="382" as="sourcePoint" />
+            <mxPoint x="215" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aIWm4AQlvVzGKz9wr0rj-108" value="订单信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#FF3333;" parent="aIWm4AQlvVzGKz9wr0rj-107" vertex="1" connectable="0">
+        <mxCell id="aIWm4AQlvVzGKz9wr0rj-108" value="order detail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#FF3333;" parent="aIWm4AQlvVzGKz9wr0rj-107" vertex="1" connectable="0">
           <mxGeometry x="-0.1459" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1018,7 +1018,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aIWm4AQlvVzGKz9wr0rj-112" value="更新订单状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#FF3333;" parent="aIWm4AQlvVzGKz9wr0rj-111" vertex="1" connectable="0">
+        <mxCell id="aIWm4AQlvVzGKz9wr0rj-112" value="update order status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontColor=#FF3333;" parent="aIWm4AQlvVzGKz9wr0rj-111" vertex="1" connectable="0">
           <mxGeometry x="-0.0111" relative="1" as="geometry">
             <mxPoint x="13" as="offset" />
           </mxGeometry>
