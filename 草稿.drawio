@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T08:13:55.864Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MZyq2eto_hyyolYYlIcx" version="20.8.22" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-02-22T08:14:51.200Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="KAYLab8mvDrM357o8E7S" version="20.8.22" type="github" pages="8">
   <diagram id="q9JE0bsu9Nl35Ci1RGcl" name="实名认证流程">
     <mxGraphModel dx="954" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1091,9 +1091,9 @@
             <mxPoint x="660" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s_88k2fDYczZKgv_eXlf-2" value="sync" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;" vertex="1" connectable="0" parent="DuHSC7XUIWtXzjXXXBlI-24">
-          <mxGeometry x="-0.0273" y="-2" relative="1" as="geometry">
-            <mxPoint x="-27" y="-22" as="offset" />
+        <mxCell id="s_88k2fDYczZKgv_eXlf-17" value="sync" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=default;" vertex="1" connectable="0" parent="DuHSC7XUIWtXzjXXXBlI-24">
+          <mxGeometry x="0.0137" y="-2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s_88k2fDYczZKgv_eXlf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;labelBorderColor=none;fontSize=14;fontColor=default;elbow=vertical;dashed=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="s_88k2fDYczZKgv_eXlf-5" source="DuHSC7XUIWtXzjXXXBlI-22" target="DuHSC7XUIWtXzjXXXBlI-7">
