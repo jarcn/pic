@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T08:10:43.729Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="YtkCsEKZ90tLJe7X4A1C" version="20.8.22" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-02-22T08:12:58.364Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="JtwueO6n-0n938tkYLZ5" version="20.8.22" type="github" pages="8">
   <diagram id="q9JE0bsu9Nl35Ci1RGcl" name="实名认证流程">
     <mxGraphModel dx="954" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1102,8 +1102,8 @@
         <mxCell id="DuHSC7XUIWtXzjXXXBlI-22" value="sync" style="rounded=0;html=1;fontSize=24;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="s_88k2fDYczZKgv_eXlf-5">
           <mxGeometry x="430" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DuHSC7XUIWtXzjXXXBlI-26" value="dump" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="s_88k2fDYczZKgv_eXlf-5">
-          <mxGeometry x="150" y="115" width="60" height="30" as="geometry" />
+        <mxCell id="DuHSC7XUIWtXzjXXXBlI-26" value="dump&lt;br&gt;&amp;nbsp;binlog" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="s_88k2fDYczZKgv_eXlf-5">
+          <mxGeometry x="165" y="113" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="s_88k2fDYczZKgv_eXlf-3" value="Canal&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="s_88k2fDYczZKgv_eXlf-5">
           <mxGeometry x="260" y="115" width="60" height="30" as="geometry" />
