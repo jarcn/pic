@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T02:13:25.563Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="776aWX01ZSwfEsk79NyB" version="20.8.23" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-02-24T02:19:15.270Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="w4Mi1h4tLLbb_8QspAuk" version="20.8.23" type="github" pages="8">
   <diagram id="q9JE0bsu9Nl35Ci1RGcl" name="实名认证流程">
     <mxGraphModel dx="954" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1058,11 +1058,11 @@
         <mxCell id="s_88k2fDYczZKgv_eXlf-12" value="基于已有的数据增量同步UEO所需数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="20" y="630" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jlEk7nvxH1gV4DZqV7Bo-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1160" width="120" height="60" as="geometry" />
+        <mxCell id="jlEk7nvxH1gV4DZqV7Bo-19" value="ES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jlEk7nvxH1gV4DZqV7Bo-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1160" width="120" height="60" as="geometry" />
+        <mxCell id="jlEk7nvxH1gV4DZqV7Bo-20" value="Mysql" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jlEk7nvxH1gV4DZqV7Bo-32" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="30" y="720" width="730" height="310" as="geometry" />
@@ -1166,6 +1166,9 @@
           <mxGeometry x="-0.0371" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jlEk7nvxH1gV4DZqV7Bo-34" value="CK" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
