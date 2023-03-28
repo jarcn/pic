@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T01:42:30.263Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0TfPhq5leN7yLObM8V44" version="20.8.22" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-03-28T01:44:14.034Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="8F57gSL_fAn9AykJVZ0O" version="20.8.22" type="github" pages="10">
   <diagram id="q9JE0bsu9Nl35Ci1RGcl" name="实名认证流程">
     <mxGraphModel dx="954" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1301,7 +1301,7 @@
         <mxCell id="1" parent="0" />
         <mxCell id="e5d8BjWX5qiP0KZzg0nr-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="e5d8BjWX5qiP0KZzg0nr-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="160" as="targetPoint" />
+            <mxPoint x="320" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e5d8BjWX5qiP0KZzg0nr-18" value="sdk" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="e5d8BjWX5qiP0KZzg0nr-9">
@@ -1318,7 +1318,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e5d8BjWX5qiP0KZzg0nr-1" value="app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="85" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e5d8BjWX5qiP0KZzg0nr-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="e5d8BjWX5qiP0KZzg0nr-2" target="e5d8BjWX5qiP0KZzg0nr-3">
           <mxGeometry relative="1" as="geometry" />
@@ -1329,7 +1329,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e5d8BjWX5qiP0KZzg0nr-2" value="server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="85" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e5d8BjWX5qiP0KZzg0nr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="e5d8BjWX5qiP0KZzg0nr-3" target="e5d8BjWX5qiP0KZzg0nr-5">
           <mxGeometry relative="1" as="geometry" />
@@ -1340,13 +1340,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e5d8BjWX5qiP0KZzg0nr-3" value="ds-event-server" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="160" width="240" height="50" as="geometry" />
+          <mxGeometry x="200" y="205" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e5d8BjWX5qiP0KZzg0nr-4" value="appsflyer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="280" width="130" height="60" as="geometry" />
+          <mxGeometry x="475" y="325" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e5d8BjWX5qiP0KZzg0nr-5" value="kafka" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="280" width="240" height="60" as="geometry" />
+          <mxGeometry x="200" y="325" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e5d8BjWX5qiP0KZzg0nr-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="e5d8BjWX5qiP0KZzg0nr-7" target="e5d8BjWX5qiP0KZzg0nr-5">
           <mxGeometry relative="1" as="geometry" />
@@ -1365,13 +1365,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e5d8BjWX5qiP0KZzg0nr-7" value="big data" style="rounded=1;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="460" width="410" height="80" as="geometry" />
+          <mxGeometry x="200" y="505" width="410" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e5d8BjWX5qiP0KZzg0nr-22" value="CK" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="515" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e5d8BjWX5qiP0KZzg0nr-23" value="Hive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="515" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
